@@ -14,7 +14,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
   <component name="ProjectId" id="1pfYm2lKBonnkujJGixGMS9Uy96" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +30,60 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/general/functions.py" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.guess_number_game">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\isprogis\PycharmProjects\teste\bank" />
+      <recent name="C:\Users\isprogis\PycharmProjects\teste\general" />
+      <recent name="C:\Users\isprogis\PycharmProjects\teste\hangman" />
+      <recent name="C:\Users\isprogis\PycharmProjects\teste\guess_number" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.functions">
+    <configuration name="bank" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\isprogis\PycharmProjects\teste\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bank" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bank/bank.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bank_functions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\isprogis\PycharmProjects\teste\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bank" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\bank\bank_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="blocos_if_else" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Jogos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -37,7 +96,49 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\blocos_if_else.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\general\blocos_if_else.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_structures" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\isprogis\PycharmProjects\teste\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\general\data_structures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\isprogis\PycharmProjects\teste\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guess_number_game.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\guess_number\guess_number_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hangman_game.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\hangman\hangman_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +201,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\variavel_format.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\general\variavel_format.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,8 +213,12 @@
     <list>
       <item itemvalue="Python.blocos_if_else" />
       <item itemvalue="Python.guess_number_game" />
+      <item itemvalue="Python.data_structures" />
+      <item itemvalue="Python.bank" />
+      <item itemvalue="Python.functions" />
       <item itemvalue="Python.hangman_game" />
       <item itemvalue="Python.variavel_format" />
+      <item itemvalue="Python.bank_functions" />
     </list>
     <recent_temporary>
       <list>
@@ -135,30 +240,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615897744726">
+    <state x="275" y="23" key="#Notifications" timestamp="1615990269569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1615897744726" />
-    <state x="463" y="129" key="FileChooserDialogImpl" timestamp="1615907464951">
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1615990269569" />
+    <state x="137" y="20" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615989267001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="129" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615907464951" />
-    <state width="1345" height="238" key="GridCell.Tab.0.bottom" timestamp="1615907602117">
+    <state x="137" y="20" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1615989267001" />
+    <state x="463" y="129" key="FileChooserDialogImpl" timestamp="1615990252671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615907602117" />
-    <state width="1345" height="238" key="GridCell.Tab.0.center" timestamp="1615907602117">
+    <state x="463" y="129" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615990252671" />
+    <state width="1345" height="168" key="GridCell.Tab.0.bottom" timestamp="1615997382889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615907602117" />
-    <state width="1345" height="238" key="GridCell.Tab.0.left" timestamp="1615907602117">
+    <state width="1345" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615997382889" />
+    <state width="1345" height="168" key="GridCell.Tab.0.center" timestamp="1615997382889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615907602117" />
-    <state width="1345" height="238" key="GridCell.Tab.0.right" timestamp="1615907602117">
+    <state width="1345" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615997382889" />
+    <state width="1345" height="168" key="GridCell.Tab.0.left" timestamp="1615997382889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615907602117" />
+    <state width="1345" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615997382889" />
+    <state width="1345" height="168" key="GridCell.Tab.0.right" timestamp="1615997382889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615997382889" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1615990265090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615990265090" />
     <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1615575771374">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
