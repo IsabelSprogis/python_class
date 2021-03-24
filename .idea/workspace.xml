@@ -63,27 +63,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bank" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Jogos" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\isprogis\PycharmProjects\teste\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bank" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bank/bank.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="bank_functions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Jogos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +76,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\bank\bank_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bank_prototype" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\isprogis\PycharmProjects\teste\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bank" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\isprogis\PycharmProjects\teste\bank\bank_prototype.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,6 +231,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="relatorio_gerencial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/empresa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/empresa/relatorio_gerencial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="variavel_format" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Jogos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,16 +277,18 @@
       <item itemvalue="Python.blocos_if_else" />
       <item itemvalue="Python.guess_number_game" />
       <item itemvalue="Python.data_structures" />
-      <item itemvalue="Python.bank" />
       <item itemvalue="Python.functions" />
       <item itemvalue="Python.hangman_game" />
       <item itemvalue="Python.atm" />
       <item itemvalue="Python.bank_functions" />
       <item itemvalue="Python.game_menu" />
       <item itemvalue="Python.variavel_format" />
+      <item itemvalue="Python.bank_prototype" />
+      <item itemvalue="Python.relatorio_gerencial" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.relatorio_gerencial" />
         <item itemvalue="Python.variavel_format" />
       </list>
     </recent_temporary>
@@ -296,22 +319,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="129" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616420453361" />
-    <state width="1345" height="32" key="GridCell.Tab.0.bottom" timestamp="1616425493931">
+    <state width="1345" height="202" key="GridCell.Tab.0.bottom" timestamp="1616598846641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="32" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616425493931" />
-    <state width="1345" height="32" key="GridCell.Tab.0.center" timestamp="1616425493931">
+    <state width="1345" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616598846641" />
+    <state width="1345" height="202" key="GridCell.Tab.0.center" timestamp="1616598846641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="32" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616425493931" />
-    <state width="1345" height="32" key="GridCell.Tab.0.left" timestamp="1616425493931">
+    <state width="1345" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616598846641" />
+    <state width="1345" height="202" key="GridCell.Tab.0.left" timestamp="1616598846641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="32" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616425493931" />
-    <state width="1345" height="32" key="GridCell.Tab.0.right" timestamp="1616425493931">
+    <state width="1345" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616598846641" />
+    <state width="1345" height="202" key="GridCell.Tab.0.right" timestamp="1616598846641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="32" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616425493931" />
+    <state width="1345" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616598846641" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1615990265090">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
