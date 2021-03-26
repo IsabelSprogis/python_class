@@ -41,7 +41,7 @@
       <recent name="C:\Users\isprogis\PycharmProjects\teste\guess_number" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.atm">
+  <component name="RunManager" selected="Python.test_checking_account">
     <configuration name="atm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Jogos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,6 +252,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_checking_account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_checking_account.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="variavel_format" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Jogos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,12 +303,14 @@
       <item itemvalue="Python.atm" />
       <item itemvalue="Python.bank_functions" />
       <item itemvalue="Python.game_menu" />
-      <item itemvalue="Python.variavel_format" />
       <item itemvalue="Python.bank_prototype" />
+      <item itemvalue="Python.variavel_format" />
       <item itemvalue="Python.relatorio_gerencial" />
+      <item itemvalue="Python.test_checking_account" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_checking_account" />
         <item itemvalue="Python.relatorio_gerencial" />
         <item itemvalue="Python.variavel_format" />
       </list>
@@ -319,22 +342,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="129" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616420453361" />
-    <state width="1345" height="202" key="GridCell.Tab.0.bottom" timestamp="1616598846641">
+    <state width="1345" height="202" key="GridCell.Tab.0.bottom" timestamp="1616768316641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616598846641" />
-    <state width="1345" height="202" key="GridCell.Tab.0.center" timestamp="1616598846641">
+    <state width="1345" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616768316641" />
+    <state width="1345" height="202" key="GridCell.Tab.0.center" timestamp="1616768316641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616598846641" />
-    <state width="1345" height="202" key="GridCell.Tab.0.left" timestamp="1616598846641">
+    <state width="1345" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616768316641" />
+    <state width="1345" height="202" key="GridCell.Tab.0.left" timestamp="1616768316640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616598846641" />
-    <state width="1345" height="202" key="GridCell.Tab.0.right" timestamp="1616598846641">
+    <state width="1345" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616768316640" />
+    <state width="1345" height="202" key="GridCell.Tab.0.right" timestamp="1616768316641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616598846641" />
+    <state width="1345" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616768316641" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1615990265090">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,15 +1,11 @@
-import abc
-
-
-class Account(abc.ABC):  # Abstract class cannot be instanced
+class Account:
     _acc_qty = 0
 
-    def __init__(self, number, name, balance, limit, acc_type):
+    def __init__(self, number, name, balance, limit):
         self._number = number  # PROTECTED
         self._name = name
         self.__balance = balance  # PRIVATE
         self._limit = limit
-        self._acc_type = acc_type
         Account._acc_qty += 1  # Will increment the static value of number of accounts objects
 
     def __str__(self):
@@ -42,8 +38,11 @@ class Account(abc.ABC):  # Abstract class cannot be instanced
         return False
 
     def deposit(self, value):
-        self.__balance += value - 0.1
-        return True
+        if value < 0:
+            return False
+        else:
+            self.__balance += value - 0.1
+            return True
 
     def transfer(self, value, account_number):
         withdrawed = self.withdraw(value)
@@ -67,7 +66,7 @@ class Account(abc.ABC):  # Abstract class cannot be instanced
     def refresh(self, rate):
         self.__balance += self.__balance * rate
 
-    @property
-    @abc.abstractmethod
-    def acc_type(self):
-        pass
+    #@property
+    #@abc.abstractmethod
+    #def acc_type(self):
+    #    pass

@@ -1,9 +1,7 @@
-from abc import ABC
-
 from account_func import Account
 
 
-class CheckingAccount(Account, ABC):
+class CheckingAccount(Account):
 
     def refresh(self, rate):
         self.__balance += self.__balance * rate * 2
